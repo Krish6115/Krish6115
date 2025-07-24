@@ -76,7 +76,7 @@
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true" alt="Krishna's GitHub Streak" />
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Siva's GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
     </td>
   </tr>
 </table>
