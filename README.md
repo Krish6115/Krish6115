@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Siva+Rama+Krishna+Reddy;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SRK+Reddy;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" />
 
 </div>
 
@@ -9,9 +9,9 @@
     <td valign="top" width="65%">
       <h2 align="left">👋 About Me</h2>
       <p align="left">
-        🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
-        💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-        🚀 I’m actively seeking collaborations on projects involving the MERN stack, AI/ML, Java, and Python.<br/><br/>
+        🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/>
+        💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/>
+        🚀 I’m actively seeking collaborations on projects involving the MERN stack, AI/ML, Java, and Python.<br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
@@ -74,7 +74,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Siva's Top Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true" alt="Siva's GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true" alt="Krishna's GitHub Streak" />
       <br/>
       <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Siva's GitHub Trophies" />
     </td>
