@@ -74,7 +74,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Siva's Top Languages" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true" alt="Krishna's GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true"/>
       <br/>
       <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
     </td>
