@@ -1,22 +1,22 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SRK+Reddy;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SRK+Reddy+:);Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Tech+Enthusiast" />
 
 </div>
 
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="50%">
       <h2 align="left">👋 About Me</h2>
       <p align="left">
-        🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/>
-        💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/>
-        🚀 I’m actively seeking collaborations on projects involving the MERN stack, AI/ML, Java, and Python.<br/>
+        🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
+        💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
+        🚀 I’m actively seeking collaborations on projects involving the MERN stack, AI/ML, Java, and Python.<br/><br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
-    <td valign="top" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="border-radius: 10px;" />
+    <td valign="top" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="border-radius: 5px;" />
     </td>
   </tr>
 </table>
