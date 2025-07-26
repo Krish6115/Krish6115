@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-30363D?style=for-the-badge&logo=node.js&logoColor=339933" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/Express.js-30363D?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-   <img src="https://img.shields.io/badge/JavaScript.js-30363D?style=for-the-badge&logo=express&logoColor=white" alt="JS"/>
+   <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=js&logoColor=white" alt="JS"/>
   <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/MongoDB-30363D?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
