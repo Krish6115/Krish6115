@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/MongoDB-30363D?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/AWS-30363D?style=for-the-badge&logo=awscloud&logoColor=FF9900" alt="AWSCloud"/>
+  <img src="https://img.shields.io/badge/AWSCloud-30363D?style=for-the-badge&logo=awscloud&logoColor=FF9900" alt="AWSCloud"/>
   <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   <br/>
