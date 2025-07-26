@@ -43,6 +43,9 @@
 
 <h2 align="center">🚀 My Tech Stack</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Haskell-30363D?style=for-the-badge&logo=haskell&logoColor=5D4F85" alt="Haskell"/>
   <img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-30363D?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS"/>
   <img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -54,7 +57,7 @@
   <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/MongoDB-30363D?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-30363D?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-30363D?style=for-the-badge&logo=awscloud&logoColor=FF9900" alt="AWSCloud"/>
   <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   <br/>
