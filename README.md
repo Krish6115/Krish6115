@@ -16,7 +16,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="border-radius: 5px 5px 5px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="border-radius: 5px; display: block;" />
     </td>
   </tr>
 </table>
