@@ -11,7 +11,7 @@
       <p align="left">
         🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
         💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-        🚀 I’m actively seeking collaborations on projects involving the MERN stack, Flutter, AI/ML, Java, and Python.<br/><br/>
+        🚀 I’m actively seeking collaborations on projects involving the MERN stack, Flutter, Dart, AI/ML, Java, Python and C/C++.<br/><br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
