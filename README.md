@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SRK+Reddy+:);Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Tech+Enthusiast" />
-
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F39C12%3BE85D04&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+SRK+Reddy+:);Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Tech+Enthusiast" />
 </div>
 
 <table>
@@ -15,8 +13,8 @@
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
-    <td valign="top" width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="border-radius: 5px; display: block;" />
+    <td valign="middle" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="width: 100%; border-radius: 5px; display: block;" />
     </td>
   </tr>
 </table>
