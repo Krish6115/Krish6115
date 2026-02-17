@@ -9,7 +9,7 @@
       <p align="left">
         🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
         💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-        🚀 I’m actively seeking collaborations on projects involving the MERN stack, Flutter, Dart, AI/ML, Java, Python and C/C++.<br/><br/>
+        🚀 I'm actively seeking collaborations on projects involving the MERN stack, Flutter, Dart, AI/ML, Java, Python and C/C++.<br/><br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
@@ -73,14 +73,14 @@
 <table width="100%">
   <tr valign="top">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Siva's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Siva's GitHub Stats" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Siva's Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Siva's Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true"/>
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+      <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
     </td>
   </tr>
 </table>
