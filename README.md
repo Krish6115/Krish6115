@@ -73,9 +73,9 @@
 <table width="100%">
   <tr valign="top">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=86400" alt="Siva's GitHub Stats" />
+      <img src="metrics-stats.svg" alt="Siva's GitHub Stats" />
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish6115&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" alt="Siva's Top Languages" />
+      <img src="metrics-languages.svg" alt="Siva's Top Languages" />
     </td>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true"/>
