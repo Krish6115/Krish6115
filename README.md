@@ -80,7 +80,7 @@
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com/?user=krish6115&theme=tokyonight&hide_border=true"/>
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=krish6115&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+      <img src="metrics-achievements.svg" alt="Achievements" />
     </td>
   </tr>
 </table>
