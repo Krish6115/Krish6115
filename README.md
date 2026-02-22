@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Trophies 🏆</h2>
+<h2 align="center">📊 GitHub Stats </h2>
 <table width="100%">
   <tr valign="top">
     <td width="50%" align="center">
