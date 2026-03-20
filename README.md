@@ -9,7 +9,7 @@
       <p align="left">
         🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
         💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-        🚀 I'm actively seeking collaborations on projects involving the MERN stack, Flutter, Dart, AI/ML, Java, Python and C/C++.<br/><br/>
+        🚀 I’m actively looking to collaborate on projects in AI/ML, Java, Python, the MERN stack, Flutter, Dart, React.js, and cloud technologies (including CI/CD).<br/><br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
@@ -31,7 +31,7 @@
     <a href="https://instagram.com/srkr6115" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="mailto:sivaramakrishnareddy6115@gmail.com">
+    <a href="mailto:srkreddy6115@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
