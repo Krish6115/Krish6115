@@ -10,7 +10,7 @@
         🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
         💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
         🚀 I’m actively looking to collaborate on projects in AI/ML, Java, Python, the MERN stack, Flutter, Dart, React.js, and cloud technologies (including CI/CD).<br/><br/>
-         I love Contributing to new things and i proudly say that I am an open-source contributor :). <br/><br/>
+         I love Contributing to new things and can proudly say that i am an open-source contributor :). <br/><br/>
         📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
