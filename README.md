@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2 align="left">👋 About Me</h2>
+      <h2 align="left">About Me</h2>
       <p align="left">
         🎓 I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
         💻 My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-        🚀 I’m actively looking to collaborate on projects in AI/ML, Java, Python, the MERN stack, Flutter, Dart, React.js, and cloud technologies (including CI/CD).<br/><br/>
+         I’m actively looking to collaborate on projects in AI/ML, Java, Python, the MERN stack, Flutter, Dart, React.js, and cloud technologies (including CI/CD).<br/><br/>
          I love Contributing to new things and can proudly say that i am an open-source contributor :) <br/><br/>
-        📫 Feel free to connect with me! My inbox is always open. You can call me Krish!
+         Feel free to connect with me! My inbox is always open. You can call me Krish!
       </p>
     </td>
     <td valign="middle" width="50%">
@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">🚀 My Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
   <img src="https://img.shields.io/badge/C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
@@ -64,7 +64,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats </h2>
+<h2 align="center">GitHub Stats </h2>
 <table width="100%">
   <tr valign="top">
     <td width="50%" align="center">
