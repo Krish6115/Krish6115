@@ -15,8 +15,6 @@
     </td>
     <td valign="middle" width="50%">
       *"Talk is cheap. Show me the code." ~ Linus Torvalds*
-
-   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="width: 100%; border-radius: 5px; display: block;" />
     </td>
   </tr>
