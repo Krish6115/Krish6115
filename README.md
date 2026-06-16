@@ -87,5 +87,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   
   <p><img src="https://komarev.com/ghpvc/?username=krish6115&style=flat-square&color=blueviolet" alt="Profile Visitor Counter"/></p>
+  <br/>
+
+*"Talk is cheap. Show me the code." ~ Linus Torvalds*
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220" />
 
 </div>
