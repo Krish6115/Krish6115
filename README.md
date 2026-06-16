@@ -15,7 +15,7 @@
     </td>
     <td valign="middle" width="50%">
       "Talk is cheap. Show me the code." ~ Linus Torvalds
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" style="width: 100%; border-radius: 5px; display: block;" />
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzZ2t5aWZjNTg1ZDBjY2JxODlmeGRseW9kM2RoeGJ2MGhnZjJsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding animation" style="width: 100%; border-radius: 5px; display: block;" />
     </td>
   </tr>
 </table>
