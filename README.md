@@ -6,16 +6,16 @@
 
 Currently building with **Java, Python, Next.js, FastAPI, Docker, and cloud technologies**.
 
-Previously → **DevOps Intern @ Harlax Software**
+Currently → **DevOps Intern**
 
 Projects:
 - **Patient-Centric Clinical RAG** - LLMs, LangChain, FAISS & semantic search
 - **EmoSense** - Real-time emotion analytics with Transformers & FastAPI
 - **Precision Agriculture ML** - Machine learning pipeline with cloud deployment
 
-Interested in **AI + Software Engineering + Cybersecurity**.
+Interested in **AI + Software Engineering + Cybersecurity + Cloud**.
 
-Contact: **[LinkedIn](YOUR_LINKEDIN_URL)** or **[Email](mailto:srkreddy6115@gmail.com)**
+Contact: **[LinkedIn](https://linkedin.com/in/srk-reddy)** or **[Email](mailto:srkreddy6115@gmail.com)**
 
 ---
 
