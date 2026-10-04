@@ -1,66 +1,99 @@
-<div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Krishna+:);Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Tech+Enthusiast" />
-</div>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h2 align="left">About Me</h2>
-      <p align="left">
-        I'm a Computer Science student at Amrita University, Bangalore.<br/><br/>
-        My passion lies in solving complex problems, from competitive programming challenges to building full-stack applications.<br/><br/>
-         I’m actively looking to collaborate on projects in AI/ML, Java, Python, the MERN stack, Flutter, Dart, React.js, and cloud technologies (including CI/CD).<br/><br/>
-         I love Contributing to new things and can proudly say that i am an open-source contributor :) <br/><br/>
-         Feel free to connect with me! My inbox is always open. You can call me Krish!
-      </p>
-    </td>
-    <td valign="middle" width="50%">
-      "Talk is cheap. Show me the code." ~ Linus Torvalds
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIzZ2t5aWZjNTg1ZDBjY2JxODlmeGRseW9kM2RoeGJ2MGhnZjJsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="Coding animation" style="width: 100%; border-radius: 5px; display: block;" />
-    </td>
-  </tr>
-</table>
+# Hey there, I'm Krishna 👋
+
+**Final-Year CSE Student @ [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)**
+
+**Software Engineering • AI/ML • DevOps & Automation**
+
+I enjoy building software that solves practical problems — from backend systems and full-stack applications to AI-powered solutions and infrastructure automation.
+
+I'm currently focused on strengthening my foundations for software engineering roles, especially **Java, Data Structures & Algorithms, backend development, AI/ML, and scalable systems**.
+
+### What I work with
+
+- **Software Engineering:** Java, Python, C++, DSA, OOP, DBMS, Computer Networks
+- **AI/ML:** RAG systems, NLP, Computer Vision, Transformers, FAISS, Hugging Face
+- **Full Stack:** React, Next.js, Node.js, Express, MongoDB
+- **DevOps & Infrastructure:** Docker, Portainer, Git, CI/CD, cloud deployment, networking & firewall automation
+- **Automation:** Python, Selenium, REST APIs, infrastructure configuration
+
+### Some things I've built
+
+**Patient-Centric Clinical RAG System**  
+A retrieval-augmented system focused on improving the way clinical information is searched and retrieved using embeddings, FAISS, LLMs and a two-stage retrieval and re-ranking pipeline.
+
+**EmoSense — Real-Time Emotion Analytics**  
+An NLP system for emotion analysis using a fine-tuned transformer model, exposed through FastAPI and containerized with Docker.
+
+**Precision Agriculture ML Pipeline**  
+An end-to-end machine learning pipeline covering data processing, model development, database integration and cloud deployment.
+
+I've also worked on **network and firewall automation**, including automating pfSense/OPNsense configuration and exploring API-driven infrastructure workflows.
+
+### Currently learning
+
+**System Design • Backend Engineering • AI Agents • Cloud & DevOps • Cybersecurity**
+
+I like understanding how things work under the hood and prefer building projects that combine **software engineering with AI, automation, and infrastructure**.
+
+---
 
 <div align="center">
-  <h2 align="center">🤝 Connect with Me</h2>
-  <p align="center">
-    </a>
-    <a href="https://leetcode.com/u/code_it_bro/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-    </a>
-    <a href="mailto:srkreddy6115@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+
+### 🤝 Let's Connect
+
+<a href="https://leetcode.com/u/code_it_bro/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=60A5FA" alt="LeetCode"/>
+</a>
+<a href="mailto:srkreddy6115@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email"/>
+</a>
+
 </div>
 
 ---
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/Haskell-30363D?style=for-the-badge&logo=haskell&logoColor=5D4F85" alt="Haskell"/>
-  <img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS-30363D?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS"/>
-  <img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-30363D?style=for-the-badge&logo=node.js&logoColor=339933" alt="NodeJS"/>
-  <img src="https://img.shields.io/badge/Express.js-30363D?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Dart-30363D?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Flutter-30363D?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/MongoDB-30363D?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/AWSCloud-30363D?style=for-the-badge&logo=awscloud&logoColor=FF9900" alt="AWSCloud"/>
-  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+
+  <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-1F2937?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C"/>
+
   <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-30363D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-30363D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-30363D?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-30363D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-30363D?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Numpy-30363D?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
+
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=86EFAC" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=86EFAC" alt="MongoDB"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-1F2937?style=for-the-badge&logo=pytorch&logoColor=FB7185" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-1F2937?style=for-the-badge&logo=tensorflow&logoColor=F97316" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-1F2937?style=for-the-badge&logo=keras&logoColor=F43F5E" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1F2937?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24" alt="Scikit--learn"/>
+  <img src="https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge&logo=pandas&logoColor=93C5FD" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=60A5FA" alt="NumPy"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=FBBF24" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-1F2937?style=for-the-badge&logo=meta&logoColor=60A5FA" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=67E8F9" alt="FastAPI"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=60A5FA" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=FB7185" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/AWS-1F2937?style=for-the-badge&logo=amazonwebservices&logoColor=FBBF24" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Selenium-1F2937?style=for-the-badge&logo=selenium&logoColor=86EFAC" alt="Selenium"/>
+
 </p>
 
 ---
