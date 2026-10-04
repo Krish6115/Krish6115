@@ -1,99 +1,50 @@
-# Hey there, I'm Krishna 👋
+# Hey there, I am Krishna 👋
 
-**Final-Year CSE Student @ [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/)**
+**Final Year CSE Student @ [Amrita](https://www.amrita.edu/)**
 
 **Software Engineering • AI/ML • DevOps & Automation**
 
-I enjoy building software that solves practical problems — from backend systems and full-stack applications to AI-powered solutions and infrastructure automation.
+Currently building with **Java, Python, Next.js, FastAPI, Docker, and cloud technologies**.
 
-I'm currently focused on strengthening my foundations for software engineering roles, especially **Java, Data Structures & Algorithms, backend development, AI/ML, and scalable systems**.
+Previously → **DevOps Intern @ Harlax Software**
 
-### What I work with
+Projects:
+- **Patient-Centric Clinical RAG** - LLMs, LangChain, FAISS & semantic search
+- **EmoSense** - Real-time emotion analytics with Transformers & FastAPI
+- **Precision Agriculture ML** - Machine learning pipeline with cloud deployment
 
-- **Software Engineering:** Java, Python, C++, DSA, OOP, DBMS, Computer Networks
-- **AI/ML:** RAG systems, NLP, Computer Vision, Transformers, FAISS, Hugging Face
-- **Full Stack:** React, Next.js, Node.js, Express, MongoDB
-- **DevOps & Infrastructure:** Docker, Portainer, Git, CI/CD, cloud deployment, networking & firewall automation
-- **Automation:** Python, Selenium, REST APIs, infrastructure configuration
+Interested in **AI + Software Engineering + Cybersecurity**.
 
-### Some things I've built
-
-**Patient-Centric Clinical RAG System**  
-A retrieval-augmented system focused on improving the way clinical information is searched and retrieved using embeddings, FAISS, LLMs and a two-stage retrieval and re-ranking pipeline.
-
-**EmoSense — Real-Time Emotion Analytics**  
-An NLP system for emotion analysis using a fine-tuned transformer model, exposed through FastAPI and containerized with Docker.
-
-**Precision Agriculture ML Pipeline**  
-An end-to-end machine learning pipeline covering data processing, model development, database integration and cloud deployment.
-
-I've also worked on **network and firewall automation**, including automating pfSense/OPNsense configuration and exploring API-driven infrastructure workflows.
-
-### Currently learning
-
-**System Design • Backend Engineering • AI Agents • Cloud & DevOps • Cybersecurity**
-
-I like understanding how things work under the hood and prefer building projects that combine **software engineering with AI, automation, and infrastructure**.
+Contact: **[LinkedIn](YOUR_LINKEDIN_URL)** or **[Email](mailto:srkreddy6115@gmail.com)**
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Connect
-
-<a href="https://leetcode.com/u/code_it_bro/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=60A5FA" alt="LeetCode"/>
-</a>
-<a href="mailto:srkreddy6115@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
+<h2 align="center">My Tech Stack</h2>
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F59E0B" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=60A5FA" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-1F2937?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-1F2937?style=for-the-badge&logo=c&logoColor=93C5FD" alt="C"/>
-
+  <img src="https://img.shields.io/badge/C-30363D?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-30363D?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Haskell-30363D?style=for-the-badge&logo=haskell&logoColor=5D4F85" alt="Haskell"/>
+  <img src="https://img.shields.io/badge/HTML5-30363D?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-30363D?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS"/>
+  <img src="https://img.shields.io/badge/React-30363D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-30363D?style=for-the-badge&logo=node.js&logoColor=339933" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/Express.js-30363D?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-30363D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-30363D?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-30363D?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Java-30363D?style=for-the-badge&logo=openjdk&logoColor=f89820" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-30363D?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/MongoDB-30363D?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWSCloud-30363D?style=for-the-badge&logo=awscloud&logoColor=FF9900" alt="AWSCloud"/>
+  <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   <br/>
-
-  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-1F2937?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=node.js&logoColor=86EFAC" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-1F2937?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=86EFAC" alt="MongoDB"/>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/PyTorch-1F2937?style=for-the-badge&logo=pytorch&logoColor=FB7185" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-1F2937?style=for-the-badge&logo=tensorflow&logoColor=F97316" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-1F2937?style=for-the-badge&logo=keras&logoColor=F43F5E" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1F2937?style=for-the-badge&logo=scikit-learn&logoColor=FBBF24" alt="Scikit--learn"/>
-  <img src="https://img.shields.io/badge/Pandas-1F2937?style=for-the-badge&logo=pandas&logoColor=93C5FD" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-1F2937?style=for-the-badge&logo=numpy&logoColor=60A5FA" alt="NumPy"/>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/LangChain-1F2937?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-1F2937?style=for-the-badge&logo=huggingface&logoColor=FBBF24" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/FAISS-1F2937?style=for-the-badge&logo=meta&logoColor=60A5FA" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=67E8F9" alt="FastAPI"/>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=60A5FA" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=FB7185" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/AWS-1F2937?style=for-the-badge&logo=amazonwebservices&logoColor=FBBF24" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Selenium-1F2937?style=for-the-badge&logo=selenium&logoColor=86EFAC" alt="Selenium"/>
-
+  <img src="https://img.shields.io/badge/TensorFlow-30363D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-30363D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-30363D?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-30363D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-30363D?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-30363D?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy"/>
 </p>
 
 ---
