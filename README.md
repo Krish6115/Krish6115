@@ -8,19 +8,19 @@ Currently building with **Java, Python, Next.js, FastAPI, Docker, and cloud tech
 
 Currently → **DevOps Intern**
 
-## Featured Projects
+# Featured Projects
 
-### [RALLY — AI Revenue Recovery Decisioning](https://github.com/Krish6115/RALLY)
+## [RALLY — AI Revenue Recovery Decisioning](https://github.com/Krish6115/RALLY)
 Built a simulation-driven payment recovery decisioning system combining causal uplift modeling, economic optimization, deterministic safety policies, idempotency, and failure-safe execution. Evaluated model performance against a rule-based baseline.
 
 **Tech:** Python · FastAPI · Causal ML · Pydantic · React
 
-### [QuadRoot / AEGIS — Ransomware Detection & Defense](https://github.com/Krish6115/QuadRoot)
+## [QuadRoot / AEGIS — Ransomware Detection & Defense](https://github.com/Krish6115/QuadRoot)
 Developed a defensive cybersecurity system combining AES-128-CBC ransomware simulation, canary-file detection, real-time file-integrity monitoring, automated process termination, Wazuh integration, and a live telemetry dashboard.
 
 **Tech:** Python · Cryptography · Watchdog · Psutil · Wazuh · React · Docker
 
-### [Credit-Fairness-Sim — SF-Risk / DALOF](https://github.com/Krish6115/Credit-Fairness-Sim)
+## [Credit-Fairness-Sim — SF-Risk / DALOF](https://github.com/Krish6115/Credit-Fairness-Sim)
 Developed a research-oriented ML simulation studying credit-scoring disparities under macroeconomic shocks. Benchmarked ML models and evaluated a drift-aware fairness controller during simulated recession scenarios.
 
 **Tech:** Python · PyTorch · Machine Learning · Fairness Evaluation · Simulation
